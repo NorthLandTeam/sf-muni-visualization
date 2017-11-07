@@ -1,0 +1,21 @@
+<h1>{{title}}</h1>
+<div id="container" class="container">
+    <div class="menu">
+        <button type="button" (click)="selectAllRoute()">Show All</button>
+        <button type="button" (click)="deselectAllRoute()">Hide All</button>
+        <br><br>
+        <div id="selector" class="selector">
+            <div *ngFor="let route of (routeList | async); let i=index">
+                <label class="route-label">
+                    <input type="checkbox" [checked]="route.selected" (change)="toggleCheckbox(i);"/>
+                    {{route.tag}}
+                </label>
+            </div>
+        </div>
+    </div>
+    <div>
+        <sf-muni-route #draw></sf-muni-route>
+    </div>
+    
+
+</div>

@@ -1,0 +1,277 @@
+{
+  "vehicle": [
+    {
+      "id": "8899",
+      "lon": "-122.391464",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.756783",
+      "secsSinceReport": "12"
+    },
+    {
+      "id": "1431",
+      "lon": "-122.38573",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.75226",
+      "secsSinceReport": "5"
+    },
+    {
+      "id": "1420",
+      "lon": "-122.39021",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "25",
+      "dirTag": "N____O_F00",
+      "leadingVehicleId": "1505",
+      "heading": "45",
+      "lat": "37.7793",
+      "secsSinceReport": "4"
+    },
+    {
+      "id": "1505",
+      "lon": "-122.39066",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "33",
+      "dirTag": "N____O_F00",
+      "heading": "45",
+      "lat": "37.77891",
+      "secsSinceReport": "12"
+    },
+    {
+      "id": "1506",
+      "lon": "-122.44076",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.75902",
+      "secsSinceReport": "5"
+    },
+    {
+      "id": "1419",
+      "lon": "-122.39764",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "3",
+      "heading": "32",
+      "lat": "37.77346",
+      "secsSinceReport": "61"
+    },
+    {
+      "id": "1542",
+      "lon": "-122.38821",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "33",
+      "dirTag": "N____I_F00",
+      "leadingVehicleId": "1513",
+      "heading": "183",
+      "lat": "37.7829",
+      "secsSinceReport": "2"
+    },
+    {
+      "id": "1518",
+      "lon": "-122.40757",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____O_F00",
+      "heading": "218",
+      "lat": "37.7845",
+      "secsSinceReport": "19"
+    },
+    {
+      "id": "1471",
+      "lon": "-122.40757",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____O_F00",
+      "leadingVehicleId": "1518",
+      "heading": "218",
+      "lat": "37.7845",
+      "secsSinceReport": "19"
+    },
+    {
+      "id": "1453",
+      "lon": "-122.39143",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____O_F00",
+      "heading": "318",
+      "lat": "37.79266",
+      "secsSinceReport": "10"
+    },
+    {
+      "id": "1512",
+      "lon": "-122.44686",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.72205",
+      "secsSinceReport": "13"
+    },
+    {
+      "id": "1459",
+      "lon": "-122.39143",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____I_F00",
+      "leadingVehicleId": "1453",
+      "heading": "137",
+      "lat": "37.79266",
+      "secsSinceReport": "10"
+    },
+    {
+      "id": "6596",
+      "lon": "-122.430054",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.769737",
+      "secsSinceReport": "36"
+    },
+    {
+      "id": "1402",
+      "lon": "-122.38603",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.7514899",
+      "secsSinceReport": "46"
+    },
+    {
+      "id": "1526",
+      "lon": "-122.4148",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____I_E30",
+      "heading": "45",
+      "lat": "37.77855",
+      "secsSinceReport": "2"
+    },
+    {
+      "id": "6614",
+      "lon": "-122.447411",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "18",
+      "heading": "75",
+      "lat": "37.769943",
+      "secsSinceReport": "36"
+    },
+    {
+      "id": "1501",
+      "lon": "-122.4148",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____I_E30",
+      "leadingVehicleId": "1526",
+      "heading": "45",
+      "lat": "37.77855",
+      "secsSinceReport": "2"
+    },
+    {
+      "id": "6612",
+      "lon": "-122.445168",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.770279",
+      "secsSinceReport": "25"
+    },
+    {
+      "id": "1446",
+      "lon": "-122.38425",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.7526",
+      "secsSinceReport": "49"
+    },
+    {
+      "id": "1509",
+      "lon": "-122.38413",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "9",
+      "heading": "355",
+      "lat": "37.75268",
+      "secsSinceReport": "21"
+    },
+    {
+      "id": "1545",
+      "lon": "-122.38476",
+      "routeTag": "N",
+      "predictable": "false",
+      "speedKmHr": "0",
+      "heading": "-4",
+      "lat": "37.75158",
+      "secsSinceReport": "54"
+    },
+    {
+      "id": "1531",
+      "lon": "-122.397705",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____O_F00",
+      "heading": "218",
+      "lat": "37.773388",
+      "secsSinceReport": "60"
+    },
+    {
+      "id": "1513",
+      "lon": "-122.38815",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "27",
+      "dirTag": "N____I_F00",
+      "heading": "183",
+      "lat": "37.78357",
+      "secsSinceReport": "10"
+    },
+    {
+      "id": "1472",
+      "lon": "-122.397",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "20",
+      "dirTag": "N____O_F00",
+      "leadingVehicleId": "1419",
+      "heading": "45",
+      "lat": "37.77398",
+      "secsSinceReport": "29"
+    },
+    {
+      "id": "1405",
+      "lon": "-122.42753",
+      "routeTag": "N",
+      "predictable": "true",
+      "speedKmHr": "0",
+      "dirTag": "N____I_F00",
+      "heading": "87",
+      "lat": "37.76952",
+      "secsSinceReport": "3"
+    }
+  ],
+  "lastTime": {
+    "time": "1508037687119"
+  },
+  "copyright": "All data copyright San Francisco Muni 2017."
+}

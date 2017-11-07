@@ -1,0 +1,78 @@
+/* You can add global styles to this file, and also import other style files */
+notbody {
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #eee;
+  background-color: black;
+}
+
+.freeways {
+  fill: #D0D0D0;
+  stroke: black;
+  stroke-width: 1.5px;
+  fill-opacity: 0.25;
+}
+
+.arteries {
+  fill: #D0D0D0;
+  stroke: blue;
+  stroke-width: 0.5px;
+  fill-opacity: 0.25;
+}
+
+.streets {
+  fill: #D0D0D0;
+  stroke: #5ab4ac;
+  stroke-width: 0.5px;
+  fill-opacity: 0.25;
+}
+
+.neighborhoods {
+  fill: #cbd5e8;
+  stroke: black;
+  stroke-width: 0.5px;
+  fill-opacity: 0.25;
+}
+
+.routes {
+  fill: none;
+  stroke-width: 3px;
+}
+
+.busstops {
+  fill: #bf5b17;
+}
+
+.vehicles {
+  stroke-width: 1px;
+  stroke: black;
+  fill: #beaed4;
+}
+
+.routeTag {
+  stroke: black;
+  stroke-width: 1px;
+  font-size: 8px;
+  text-anchor: middle;
+}
+
+.container {
+  display: inline-flex;
+}
+
+
+.menu {
+  text-align: center;
+}
+
+.selector {
+  border:2px solid #ccc;
+  width:100px;
+  height:700px;
+  overflow-y: scroll;
+  display: inline-block;  
+  text-align: left;
+}
+
+.route-label {
+  font-size: 20px;
+}
